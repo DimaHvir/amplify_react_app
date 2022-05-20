@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyreactapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/dima/Documents/Projects/amplify_react_app/amplify/backend/api/amplifyreactapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
